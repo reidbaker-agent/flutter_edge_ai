@@ -1,8 +1,5 @@
 # Changelog
 
-## Unreleased
-- Chats run on core's `InferenceChat` through `ChatTurnHooks`; `openChat` rules are in `resolveChatRequest`.
-
 ## 0.0.5
 
 - Docs: on the web, load `cache_api.js` inside the `<head>` of `web/index.html` (#728).
